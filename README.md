@@ -19,7 +19,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![WezTerm](https://img.shields.io/badge/WezTerm-000000?style=for-the-badge&logo=wezterm&logoColor=white)
 
-## 📫 Papers 📫:
+## 📫 Papers + contact 📫:
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7890-1501)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft%20outlook&logoColor=white)](mailto:dylan.morris@adelaide.edu.au)
