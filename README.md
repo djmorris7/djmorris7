@@ -3,10 +3,9 @@
 
 ## 🔨 Languages 🔨 :
 
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/about.html)
 
 ## 📝 Writing 📝: 
 
@@ -14,10 +13,10 @@
 
 ## 🛠 IDE and Tools 🛠: 
 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-4E5E5E?style=for-the-badge&logo=obsidian&logoColor=white)
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=&logoColor=white)](https://code.visualstudio.com)
+[![Obsidian](https://img.shields.io/badge/Obsidian-4E5E5E?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
+[![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![WezTerm](https://img.shields.io/badge/WezTerm-000000?style=for-the-badge&logo=wezterm&logoColor=white)
 
 ## 📫 Papers + contact 📫:
 
