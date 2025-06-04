@@ -1,5 +1,5 @@
-- 🎲 Dylan Morris 
-- 💡 Interested in stochastic modelling, within-host viral kinetics, epidemiology, Bayesian statistics 
+# 🎲 Dylan Morris 
+- 💡 Interested in: stochastic modelling, within-host viral kinetics, epidemiology, Bayesian statistics 
 
 ## 🔨 Languages 🔨 :
 
